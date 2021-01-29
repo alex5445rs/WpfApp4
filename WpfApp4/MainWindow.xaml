@@ -5,8 +5,8 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WpfApp4"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="8400">
+        Title="MainWindow" Height="45220" Width="8400">
     <Grid>
-        
+        <ComboBox>dfdf</ComboBox>
     </Grid>
 </Window>
